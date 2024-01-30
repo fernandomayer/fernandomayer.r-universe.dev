@@ -2,5 +2,9 @@
     {
         "package": "FishMaps",
         "url": "https://github.com/fernandomayer/FishMaps"
+    },
+    {
+        "package": "geslaR",
+        "url": "https://github.com/EireExtremes/geslaR"
     }
 ]
